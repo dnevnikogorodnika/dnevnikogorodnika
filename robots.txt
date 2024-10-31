@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /index.html
+Disallow: /search
+Disallow: /?
+Host: https://dnevnikogorodnika.ru
+Sitemap: https://dnevnikogorodnika.ru/sitemap.xml
+Clean-param: from&_ym_debug&utm_source
